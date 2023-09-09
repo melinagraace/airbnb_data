@@ -3,7 +3,7 @@ Melina Wettstein <br>
 Last updated: September 7, 2023
 
 ## Data
-Downloaded from [inside airbnb]{http://insideairbnb.com/get-the-data}, last updated June 23, 2023. 
+Downloaded from [inside airbnb](http://insideairbnb.com/get-the-data), last updated June 23, 2023. 
 
 ## Goals of project
 Currently, this is the first part of a project on creating a machine learning model for airbnb data from Vienna, Austria. 
